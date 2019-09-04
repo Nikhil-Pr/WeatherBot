@@ -15,7 +15,7 @@ Install packages:
 
 Open config.json and copy a Discord bot key in the token field. Make one at https://discordapp.com/developers/applications/ with your Discord account.
 
-`     "prefix": "!",
+`
     "token": "XXXXXXXXXXXXXXXXX" (place the key where the Xs are)
 `
 
